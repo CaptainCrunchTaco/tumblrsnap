@@ -1,0 +1,9 @@
+/Users/Ariel/AndroidStudioProjects/tumblrsnap/app/build/intermediates/classes/debug
+/Users/Ariel/AndroidStudioProjects/tumblrsnap/app/build/intermediates/pre-dexed/debug/codepath-utils-2a6b4b5459ce8866c569d3a40beb3c9e92e9ffcc.jar
+/Users/Ariel/AndroidStudioProjects/tumblrsnap/app/build/intermediates/pre-dexed/debug/codepath-android-view-helpers-0.1.0-86c2f16b632b6f8391c400a87fe7740fac0864cb.jar
+/Users/Ariel/AndroidStudioProjects/tumblrsnap/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.2.3-fbbae179998e8b85d8ca0debae3dd254fa8eea2a.jar
+/Users/Ariel/AndroidStudioProjects/tumblrsnap/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-64104b20b7993cb5dae461fcbac711fd146eb1f5.jar
+/Users/Ariel/AndroidStudioProjects/tumblrsnap/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-d4e5c7becaaf30acd6c5b496c2e6dc04b75b2a57.jar
+/Users/Ariel/AndroidStudioProjects/tumblrsnap/app/build/intermediates/pre-dexed/debug/scribe-564444bf3f4c5b6109df4b4ccd9721c1103ab3f2.jar
+/Users/Ariel/AndroidStudioProjects/tumblrsnap/app/build/intermediates/pre-dexed/debug/androidjhlabs-e16f42093542d1c0301422cfd7c80572099a3732.jar
+/Users/Ariel/AndroidStudioProjects/tumblrsnap/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-37552bda13d4d3691f6ac8ec22e49640bfd573b2.jar
